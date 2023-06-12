@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/wtyczka_projekt" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
